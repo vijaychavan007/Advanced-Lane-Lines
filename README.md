@@ -7,7 +7,7 @@ In this project, your goal is to write a software pipeline to identify the lane 
 The Project
 ---
 
-The goals / steps of this project are the following:
+The goals of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
@@ -24,4 +24,5 @@ To help the reviewer examine your work, please save examples of the output from 
 
 The `challenge_video.mp4` video is an extra (and optional) challenge for you if you want to test your pipeline under somewhat trickier conditions.  The `harder_challenge.mp4` video is another optional challenge and is brutal!
 
+All implentation details are mentioned in `writeup.md`
 
